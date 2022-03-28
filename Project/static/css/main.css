@@ -1,0 +1,43 @@
+body{
+
+    background-image: url(../images/fantasy-545053_960_720.webp);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.form-control{
+    width: 200px;
+    height: 25px;
+}
+.d-grid{
+    width: 200px;
+    height: 15px;
+}
+.mt-4 {
+    margin-top: 100px!important;
+    /* margin-bottom: 1rem; */
+    margin-left: 10px;
+    
+    
+
+}
+.img-thumbnail{
+    box-shadow: 5px 10px blueviolet;
+}
+p{
+    color: white;
+}
+.form-group{
+    
+    margin-top: 10px;
+    
+}
+.d-block{
+    height: 10px;
+    width: 20px;
+}
+
+.accordion{
+    margin-right: 1.6rem;
+    size: 8px;
+}
